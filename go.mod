@@ -1,4 +1,4 @@
-module github.com/Explooosion_code/discordGoLog
+module github.com/Explooosion-code/discordGoLog
 
 go 1.15
 
